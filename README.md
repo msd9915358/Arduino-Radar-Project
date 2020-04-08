@@ -9,22 +9,31 @@ It is made with simple materials which are easily available in the market and ea
 2. Ultrasonic Sensor
 3. Servo Motor
 4. Piezo Speaker
-5. Breadboard and jumper cables
+5. Breadboard and jumper cables 
 
 ## Purpose:
 In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a small hobbyist Servo Motor for rotating the sensor and an Arduino Board for controlling them.
 
-## Circuit Schemetics:
+## Repository Contents-
+### Circuit Schemetics: 
 It is made by using fritzing software
 
-## Source code:
+### Source code:
 Here is code you need to know to make this project work.  Feel free to try new things with this code and be craetive.
 
-## Original Pictures:
+### Original Pictures:
 Here we included some Pictures of the original project to give you the better idea about the project.
 
-## Working model:
+### Working model:
 Here is the video of working model to show you the progress and working of the circuit
+
+## Credits:
+Dejan. (2015). Arduino Radar Project. [online] HowToMechatronics. Available at:
+https://howtomechatronics.com/projects/arduino-radar-project/
+
+[Accessed 17 Feb, 2020]
+
+ 
 
 
 
