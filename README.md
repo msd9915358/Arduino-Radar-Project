@@ -5,7 +5,7 @@ This Arduino project detects and measure distance from the objects. Also, it mak
 It is made with simple materials which are easily available in the market and easy on pockets as well. 
 you can take a look how it is going to look once its done.
 
-<img src= "original pictures/img8.jpeg" height="350" >
+<img src= "original pictures/img8.jpeg" width="400" >
 
 ## Materials required:
 1. Arduino Board                          
