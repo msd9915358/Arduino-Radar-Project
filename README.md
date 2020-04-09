@@ -48,13 +48,13 @@ As we can see in the diagram below,
 - also connect peizo speaker to hear the beep sound as the object comes closer
 we can see all this in the schemetic
 
-<img src= "circuit schemetics/schemetic.jpeg" width="700" >
+<img src= "circuit schemetics/schemetic.jpeg" width="1000" >
 
 ## Credits:
 Dejan. (2015). Arduino Radar Project. [online] HowToMechatronics. Available at:
 https://howtomechatronics.com/projects/arduino-radar-project/
 
-[Accessed 17 Feb, 2020]
+[Accessed 2April, 2020]
 
  
 
