@@ -50,6 +50,19 @@ we can see all this in the schemetic
 
 <img src= "circuit schemetics/schemetic.jpeg" width="1000" >
 
+## Usage:
+- upload the code file with help of your PC in the arduino
+- you can see the yellow lights blinking on the arduino board when its done uploading
+- Ultarsonic Sensor would start rotating with the help of servo motor
+- whenever this setup comes closer to any obstacle, the peizo speaker will start beeping 
+- you'll know when the object comes too close and can avoid the collision
+
+## Team:
+The project is made by:
+- Mehakdeep Singh   *(documentation and assembling)*
+- Ishwar Singh     *(mostly software part and assembling)*
+- Karamdeep Singh  *(came up with the ideas and assembling)*
+
 ## Credits:
 Dejan. (2015). Arduino Radar Project. [online] HowToMechatronics. Available at:
 https://howtomechatronics.com/projects/arduino-radar-project/
