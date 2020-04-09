@@ -15,7 +15,7 @@ It is made with simple materials which are easily available in the market and ea
 <img src= "Images/servomotor.jpg" width="150" >
 
 4. Piezo Speaker
-<img src= "Images/piezo.jpeg" width="150" >
+<img src= "Images/piezo.jpg" width="150" >
 
 5. Breadboard and jumper cables                    
 <img src= "Images/jumperwires and breadboard.jpeg" width="150" >
