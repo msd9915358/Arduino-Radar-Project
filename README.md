@@ -9,13 +9,13 @@ It is made with simple materials which are easily available in the market and ea
 <img src= "Images/Arduino_Uno.jpg" width="150" >
 
 2. Ultrasonic Sensor
-<img src= "Images/jumperwires and breadboard.jpeg" width="150" >
+<img src= "Images/usonic.jpeg" width="150" >
 
 3. Servo Motor
-<img src= "Images/jumperwires and breadboard.jpeg" width="150" >
+<img src= "Images/servomotor.jpeg" width="150" >
 
 4. Piezo Speaker
-<img src= "Images/jumperwires and breadboard.jpeg" width="150" >
+<img src= "Images/piezo.jpeg" width="150" >
 
 5. Breadboard and jumper cables                    
 <img src= "Images/jumperwires and breadboard.jpeg" width="150" >
