@@ -4,7 +4,7 @@
 This Arduino project detects and measure distance from the objects. Also, it makes beep sound when it detects an object and frequency of beep sound increases as the as the object comes closer. It is inspired by Dejan with slight chnages in it.
 It is made with simple materials which are easily available in the market and easy on pockets as well. 
 you can take a look how it is going to look once its done.
-<img src= "Images/Arduino_Uno.jpg" width="150" >
+<img src= "Images/img8.jpeg" width="350" >
 
 ## Materials required:
 1. Arduino Board                          
@@ -33,7 +33,7 @@ In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a sma
 *Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
 
 #### -Original Pictures:
-*Here we included some Pictures of the original project to give you the better idea about the project.*
+*Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
 
 #### -Working model:
 *Here is the video of working model to show you the progress and working of the circuit*
