@@ -10,7 +10,7 @@ It is made with simple materials which are easily available in the market and ea
 3. Servo Motor
 4. Piezo Speaker
 5. Breadboard and jumper cables
-<img src= "Images/jumpercables and bra "
+<img src= "Images/jumperwires and breadboard.jpeg" >
 
 ## Purpose:
 In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a small hobbyist Servo Motor for rotating the sensor and an Arduino Board for controlling them.
