@@ -9,10 +9,13 @@ you can take a look how it is going to look once its done.
 
 ## Repository Contents-
 #### -Circuit Schemetics: 
-*Here is the circuit schemetics to give you detailed idea of the project. It is made by using fritzing software*
+*Here is the [circuit schemetics](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/circuit%20schemetics) to give you detailed idea of the project. It is made by using fritzing software*
 
 #### -Source code:
 *Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
+
+#### -Images
+*Here arre some extra [images] used to explain this project in detail*
 
 #### -Original Pictures:
 *Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
@@ -45,7 +48,7 @@ As we can see in the diagram below,
 -also connect peizo speaker to hear the beep sound as the object comes closer
 we can see all this in the schemetic
 
-<img src= "circuit schemetics/schemetic.jpeg" width="400" >
+<img src= "circuit schemetics/schemetic.jpeg" width="700" >
 
 ## Credits:
 Dejan. (2015). Arduino Radar Project. [online] HowToMechatronics. Available at:
