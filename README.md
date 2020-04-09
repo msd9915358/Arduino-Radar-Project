@@ -15,7 +15,7 @@ you can take a look how it is going to look once its done.
 *Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
 
 #### -Images
-*Here arre some extra [images] used to explain this project in detail*
+*Here arre some extra [images](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/Images) used to explain this project in detail*
 
 #### -Original Pictures:
 *Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
@@ -43,9 +43,9 @@ In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a sma
 
 ## Build Instructions:
 As we can see in the diagram below, 
--first of all we connect servo motor with arduino
--secondly connect the Ultrasonic Sensor with arduino using different pins
--also connect peizo speaker to hear the beep sound as the object comes closer
+- first of all we connect servo motor with arduino
+- secondly connect the Ultrasonic Sensor with arduino using different pins
+- also connect peizo speaker to hear the beep sound as the object comes closer
 we can see all this in the schemetic
 
 <img src= "circuit schemetics/schemetic.jpeg" width="700" >
