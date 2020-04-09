@@ -5,11 +5,11 @@ This Arduino project detects and measure distance from the objects. Also, it mak
 It is made with simple materials which are easily available in the market and easy on pockets as well.
 
 ## Materials required:
-1. Arduino Board  <img src= "Images/Arduino_Uno.jpg" width="150" >
+1. Arduino Board                                    <img src= "Images/Arduino_Uno.jpg" width="150" >
 2. Ultrasonic Sensor
 3. Servo Motor
 4. Piezo Speaker
-5. Breadboard and jumper cables  <img src= "Images/jumperwires and breadboard.jpeg" width="150" >
+5. Breadboard and jumper cables                     <img src= "Images/jumperwires and breadboard.jpeg" width="150" >
 
 ## Purpose:
 In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a small hobbyist Servo Motor for rotating the sensor and an Arduino Board for controlling them.
