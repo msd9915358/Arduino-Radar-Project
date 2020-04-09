@@ -7,6 +7,17 @@ you can take a look how it is going to look once its done.
 
 <img src= "original pictures/img8.jpeg" width="400" >
 
+## Repository Contents-
+#### -Circuit Schemetics: 
+*Here is the circuit schemetics to give you detailed idea of the project. It is made by using fritzing software*
+
+#### -Source code:
+*Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
+
+#### -Original Pictures:
+*Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
+
+
 ## Materials required:
 1. Arduino Board                          
 <img src= "Images/Arduino_Uno.jpg" width="150" >
@@ -26,18 +37,15 @@ you can take a look how it is going to look once its done.
 ## Purpose:
 In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a small hobbyist Servo Motor for rotating the sensor and an Arduino Board for controlling them.
 
-## Repository Contents-
-#### -Circuit Schemetics: 
-*Here is the circuit schemetics to give you detailed idea of the project. It is made by using fritzing software*
-
-#### -Source code:
-*Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
-
-#### -Original Pictures:
-*Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
 
 ## Build Instructions:
-first of all
+As we can see in the diagram below, 
+-first of all we connect servo motor with arduino
+-secondly connect the Ultrasonic Sensor with arduino using different pins
+-also connect peizo speaker to hear the beep sound as the object comes closer
+we can see all this in the schemetic
+
+<img src= "circuit schemetics/schemetic.jpeg" width="400" >
 
 ## Credits:
 Dejan. (2015). Arduino Radar Project. [online] HowToMechatronics. Available at:
