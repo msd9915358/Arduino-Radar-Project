@@ -28,7 +28,7 @@ In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a sma
 
 ## Repository Contents-
 #### -Circuit Schemetics: 
-*It is made by using fritzing software*
+*Here is the circuit schemetics to give you detailed idea of the project. It is made by using fritzing software*
 
 #### -Source code:
 *Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
@@ -36,8 +36,8 @@ In this Arduino Project is an Ultrasonic Sensor for detecting the objects, a sma
 #### -Original Pictures:
 *Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
 
-#### -Working model:
-*Here is the video of working model to show you the progress and working of the circuit*
+## Build Instructions:
+first of all
 
 ## Credits:
 Dejan. (2015). Arduino Radar Project. [online] HowToMechatronics. Available at:
