@@ -18,7 +18,7 @@ you can take a look how it is going to look once its done.
 *Here are some extra [images](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/Images) used to explain this project in detail*
 
 #### -files
-*In this folder there are .ino files to upload and see the result *
+*In this folder there are [.ino files](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/files) to upload and see the result *
 
 #### -Original Pictures:
 *Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
@@ -51,7 +51,7 @@ As we can see in the diagram below,
 - also connect peizo speaker to hear the beep sound as the object comes closer
 we can see all this in the schemetic
 
-<img src= "circuit schemetics/schemetic.jpeg" width="1000" >
+<img src= "circuit schemetics/sch1.jpeg" width="1000" >
 
 ## Usage:
 - upload the code file with help of your PC in the arduino
