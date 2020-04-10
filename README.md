@@ -53,6 +53,11 @@ we can see all this in the schemetic
 
 <img src= "circuit schemetics/sch1.jpeg" width="1000" >
 
+## Diagram:
+Below is the diagram to show the things in detail
+
+<img src= "circuit schemetics/sch2.jpeg" width="1000" >
+
 ## Usage:
 - upload the code file with help of your PC in the arduino
 - you can see the yellow lights blinking on the arduino board when its done uploading
