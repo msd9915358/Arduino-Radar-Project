@@ -1,7 +1,7 @@
 # Arduino Radar Project
 
 ## Overview:
-This Arduino project detects and measure distance from the objects. Also, it makes beep sound when it detects an object and frequency of beep sound increases as the as the object comes closer. It is inspired by Dejan with slight chnages in it.
+This Arduino project detects and measure distance from the objects. Also, it makes beep sound when it detects an object and tells us how far is the object. It is inspired by Dejan with slight chnages in it.
 It is made with simple materials which are easily available in the market and easy on pockets as well. 
 you can take a look how it is going to look once its done.
 
