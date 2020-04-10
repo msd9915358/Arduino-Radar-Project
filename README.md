@@ -25,6 +25,8 @@ you can take a look how it is going to look once its done.
 
 
 ## Materials required:
+##### All the materials are avialable in the arduino kit
+
 1. Arduino Board                          
 <img src= "Images/Arduino_Uno.jpg" width="150" >
 
