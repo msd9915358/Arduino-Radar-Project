@@ -15,7 +15,10 @@ you can take a look how it is going to look once its done.
 *Here is [code](https://github.com/msd9915358/Arduino-Radar-Project/blob/master/Source%20code) you need to know to make this project work.  Feel free to try new things with this code and be craetive.*
 
 #### -Images
-*Here arre some extra [images](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/Images) used to explain this project in detail*
+*Here are some extra [images](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/Images) used to explain this project in detail*
+
+#### -files
+*In this folder there are .ino files to upload and see the result *
 
 #### -Original Pictures:
 *Here we included some [Pictures](https://github.com/msd9915358/Arduino-Radar-Project/tree/master/original%20pictures) of the original project to give you the better idea about the project.*
